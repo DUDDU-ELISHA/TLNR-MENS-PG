@@ -1,0 +1,6 @@
+{
+  "name": "TLNR MEN'S PG",
+  "description": "Professional cloud-based hostel management system for TLNR MEN'S PG with resident and host dashboards, room allocations, payments, receipts, grocery tracking, and weekly menus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

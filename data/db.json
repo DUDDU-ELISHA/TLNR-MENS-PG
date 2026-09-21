@@ -1,0 +1,584 @@
+{
+  "users": [
+    {
+      "id": "host-1",
+      "name": "Owner",
+      "email": "dudduelisha7@gmail.com",
+      "mobile": "9908522152",
+      "role": "HOST",
+      "passwordHash": "157503a172fa337c87386f269328a66a3fdf80c0414961040e9ea0449b0d8353539e51f51c0baa0c76a366ae33a7370b163eb4be4e1d6214a5925ef4cf336238",
+      "salt": "7591b97da5a000bf8147e407af53dd4b",
+      "createdAt": "2026-09-21T12:05:38.264Z"
+    }
+  ],
+  "rooms": [
+    {
+      "id": "room-101",
+      "roomNumber": "101",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 1,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.262Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-102",
+      "roomNumber": "102",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 1,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-103",
+      "roomNumber": "103",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 1,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-104",
+      "roomNumber": "104",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 1,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-105",
+      "roomNumber": "105",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 1,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-201",
+      "roomNumber": "201",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 2,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-202",
+      "roomNumber": "202",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 2,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-203",
+      "roomNumber": "203",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 2,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-204",
+      "roomNumber": "204",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 2,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-205",
+      "roomNumber": "205",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 2,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-301",
+      "roomNumber": "301",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 3,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-302",
+      "roomNumber": "302",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 3,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-303",
+      "roomNumber": "303",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 3,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-304",
+      "roomNumber": "304",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 3,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-305",
+      "roomNumber": "305",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 3,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-401",
+      "roomNumber": "401",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 4,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-402",
+      "roomNumber": "402",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 4,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-403",
+      "roomNumber": "403",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 4,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-404",
+      "roomNumber": "404",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 4,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-405",
+      "roomNumber": "405",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 4,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-501",
+      "roomNumber": "501",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 5,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-502",
+      "roomNumber": "502",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 5,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-503",
+      "roomNumber": "503",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 5,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-504",
+      "roomNumber": "504",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 5,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-505",
+      "roomNumber": "505",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 5,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-601",
+      "roomNumber": "601",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 6,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-602",
+      "roomNumber": "602",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 6,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-603",
+      "roomNumber": "603",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 6,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-604",
+      "roomNumber": "604",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 6,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-605",
+      "roomNumber": "605",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 6,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-701",
+      "roomNumber": "701",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 7,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-702",
+      "roomNumber": "702",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 7,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-703",
+      "roomNumber": "703",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 7,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-704",
+      "roomNumber": "704",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 7,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-705",
+      "roomNumber": "705",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 7,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-801",
+      "roomNumber": "801",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 8,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    },
+    {
+      "id": "room-802",
+      "roomNumber": "802",
+      "totalBeds": 4,
+      "occupiedBeds": 0,
+      "availableBeds": 4,
+      "floor": 8,
+      "status": "available",
+      "createdAt": "2026-09-21T12:05:38.263Z",
+      "updatedAt": "2026-09-21T12:05:38.263Z"
+    }
+  ],
+  "residents": [],
+  "payments": [],
+  "groceryExpenses": [],
+  "menu": [
+    {
+      "id": "menu-monday",
+      "day": "Monday",
+      "tiffin": [
+        "Idli",
+        "Coconut Chutney"
+      ],
+      "lunch": [
+        "Sambar",
+        "Aloo Curry",
+        "Rice",
+        "Curd"
+      ],
+      "dinner": [
+        "Ladies Finger Fry",
+        "Sambar",
+        "Rice",
+        "Roti"
+      ],
+      "updatedAt": "2026-09-21T12:05:38.264Z"
+    },
+    {
+      "id": "menu-tuesday",
+      "day": "Tuesday",
+      "tiffin": [
+        "Dosa",
+        "Tomato Chutney"
+      ],
+      "lunch": [
+        "Tomato Dal",
+        "Ivy Gourd Fry",
+        "Rice",
+        "Rasam"
+      ],
+      "dinner": [
+        "Egg Curry / Paneer Curry",
+        "Rice",
+        "Roti"
+      ],
+      "updatedAt": "2026-09-21T12:05:38.264Z"
+    },
+    {
+      "id": "menu-wednesday",
+      "day": "Wednesday",
+      "tiffin": [
+        "Poori",
+        "Aloo Masala"
+      ],
+      "lunch": [
+        "Chicken Curry / Veg Korma",
+        "Rice",
+        "Rasam"
+      ],
+      "dinner": [
+        "Mixed Veg Curry",
+        "Dal Tadka",
+        "Rice",
+        "Roti"
+      ],
+      "updatedAt": "2026-09-21T12:05:38.264Z"
+    },
+    {
+      "id": "menu-thursday",
+      "day": "Thursday",
+      "tiffin": [
+        "Upma",
+        "Ginger Chutney"
+      ],
+      "lunch": [
+        "Palak Dal",
+        "Brinjal Curry",
+        "Rice",
+        "Curd"
+      ],
+      "dinner": [
+        "Ridge Gourd Curry",
+        "Sambar",
+        "Rice",
+        "Roti"
+      ],
+      "updatedAt": "2026-09-21T12:05:38.264Z"
+    },
+    {
+      "id": "menu-friday",
+      "day": "Friday",
+      "tiffin": [
+        "Vada",
+        "Sambar",
+        "Chutney"
+      ],
+      "lunch": [
+        "Special Veg Biryani",
+        "Raita",
+        "Mirchi Ka Salan"
+      ],
+      "dinner": [
+        "Cabbage Fry",
+        "Tomato Dal",
+        "Rice",
+        "Roti"
+      ],
+      "updatedAt": "2026-09-21T12:05:38.264Z"
+    },
+    {
+      "id": "menu-saturday",
+      "day": "Saturday",
+      "tiffin": [
+        "Pongal",
+        "Coconut Chutney"
+      ],
+      "lunch": [
+        "Capsicum Masala",
+        "Lemon Rice",
+        "Dal",
+        "Curd"
+      ],
+      "dinner": [
+        "Aloo Gobi",
+        "Sambar",
+        "Rice",
+        "Roti"
+      ],
+      "updatedAt": "2026-09-21T12:05:38.264Z"
+    },
+    {
+      "id": "menu-sunday",
+      "day": "Sunday",
+      "tiffin": [
+        "Pesarattu",
+        "Upma",
+        "Allam Chutney"
+      ],
+      "lunch": [
+        "Hyderabadi Chicken Biryani / Paneer Biryani",
+        "Raita",
+        "Sweet"
+      ],
+      "dinner": [
+        "Light Khichdi / Roti",
+        "Dal Makhani",
+        "Rice"
+      ],
+      "updatedAt": "2026-09-21T12:05:38.264Z"
+    }
+  ],
+  "auditLogs": [],
+  "otps": {},
+  "sessions": {
+    "9a48e31fc835bbf506feeb69f62770b181de5f4a8f16a99956e2c5c34ccfa6b8": {
+      "token": "9a48e31fc835bbf506feeb69f62770b181de5f4a8f16a99956e2c5c34ccfa6b8",
+      "userId": "host-1",
+      "role": "HOST",
+      "email": "dudduelisha7@gmail.com",
+      "name": "Owner",
+      "createdAt": 1789992940766
+    }
+  }
+}
